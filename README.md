@@ -1,2 +1,3 @@
 # snake
 linux backup
+lsblk
